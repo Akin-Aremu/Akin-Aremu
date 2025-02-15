@@ -1,6 +1,6 @@
 # Hi, I'm Akin Aremu 👋
 
-I'm currently a Year 13 student in Sixth Form, studying BTEC ICT, BTEC Engineering, and A-level Business. I’m passionate about revolutionizing industries through **software engineering**, with a strong focus on **business applications**, **Automobile indutries**, **Artificial Intelligence** and **construction technology**.
+I'm currently a Year 13 student in Sixth Form, studying BTEC ICT, BTEC Engineering, and A-level Business. I’m passionate about revolutionizing industries through **software engineering**.
 
 ## 🛠️ Skills & Technologies:
 - **Languages**: Python, Java, JavaScript, SQL, APIs, Flowcharts, CAD
